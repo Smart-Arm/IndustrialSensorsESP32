@@ -1,0 +1,2 @@
+AnalogSensor	KEYWORD1
+ModbusSensor	KEYWORD1
